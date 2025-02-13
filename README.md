@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello everyone 👋
+- 😄 My name's Trung, I want to be called "Vlad".
+- 🌱 I’m currently studying at ITMO University in Saint-Petersburg, Russia.
 <!--
 **tbz24/tbz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
